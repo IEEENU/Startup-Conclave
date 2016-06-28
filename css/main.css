@@ -31,7 +31,18 @@
 	font-family: 'El Messiri', sans-serif;
 	font-weight: bolder;
 	font-strech: ultra-expanded;
+	color: #1a4069;
+}
+
+#subtitle{
+	font-size: 250%;
+	text-align: center;
+	float: center;
+	font-family: 'El Messiri', sans-serif;
+	font-weight: bolder;
+	font-strech: ultra-expanded;
 	color: #1c5a9e;
+
 }
 
 #logo-img{
