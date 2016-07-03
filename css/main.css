@@ -563,11 +563,31 @@ ul li{
 }
 
 .register a{
+	padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    align: center;
 	background-color: #D8B00D;
 	color: #000;
 	font-size: 16px;
 	text-decoration: none;
-	padding: 11px 24px;
+	/*padding: 11px 24px;*/
+	border-radius: 11px;
+}
+
+.schedule a{
+	padding-left: 17%;
+    padding-right: 17%;
+    padding-top: 7%;
+    padding-bottom: 7%;
+    margin-left: 13%;
+    align-self: center;
+	background-color: #D8B00D;
+	color: #000;
+	font-size: 120%;
+	text-decoration: none;
+	/*padding: 11px 24px;*/
 	border-radius: 11px;
 }
 
