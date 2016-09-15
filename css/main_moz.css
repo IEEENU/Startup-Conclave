@@ -188,7 +188,7 @@ hr.vertical
 }
 
 .icons-set ul li{
-	display: inline-block;
+	display: table-cell;
 	margin-right: 0px;
 	margin-bottom: 12px;
 }
