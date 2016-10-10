@@ -105,7 +105,7 @@ hr.vertical
 
 #proceedings{
 	height: 400px;
-	background: #F1C40F url("../img/event-proceedings.png") left;
+	background: #F1C40F;
 	background-repeat: no-repeat;
 	-webkit-background-size: initial;
   -moz-background-size: initial;
@@ -562,7 +562,31 @@ ul li{
 	margin-bottom: 19px;
 }
 
-.register a.reg{
+.register a{
+	background-color: #D8B00D;
+	color: #000;
+	font-size: 16px;
+	text-decoration: none;
+	padding: 11px 24px;
+	border-radius: 11px;
+}
+
+.register{
+	padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    align: center;
+	background-color: #D8B00D;
+	color: #000;
+	font-size: 16px;
+	text-decoration: none;
+	/*padding: 11px 24px;*/
+	border-radius: 11px;
+}
+
+a.reg{
+	float: left;
 	padding-left: 5%;
     padding-right: 5%;
     padding-top: 1%;
@@ -1146,6 +1170,9 @@ ul li{
 	z-index: -2;
 	margin-top: 98px;
 	opacity: 1;
+}
+.event-img{
+	float:left;
 }
 /*#rou{
 	background: url(http://www.startupfestival.in/images/rou.png);
