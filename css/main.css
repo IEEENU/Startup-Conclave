@@ -506,10 +506,10 @@ ul li{
     /* position: absolute; */
 }
 
-.to-part a.to-part{
+.to-part a{
 	color: #fff;
 }
-.to-part a:hover.to-part{
+.to-part a:hover{
 	color: #fff;
 }
 #glob ul li{
@@ -562,7 +562,7 @@ ul li{
 	margin-bottom: 19px;
 }
 
-.register a{
+.register a.reg{
 	padding-left: 5%;
     padding-right: 5%;
     padding-top: 1%;
@@ -593,7 +593,7 @@ ul li{
 
 
 
-.register a:hover{
+.register a:hover.reg{
 	color: #000;
 	text-decoration: none;
 	background-color: #C29E0C;
